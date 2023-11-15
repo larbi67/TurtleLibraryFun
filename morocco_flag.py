@@ -79,7 +79,7 @@ window.bgcolor("red")
 # Title of the window in different languages
 # Titre de la fenêtre en différentes langues
 # عنوان النافذة بلغات مختلفة
-window.title("Kingdom of Morocco - Royaume de Maroc - المملكة المغربية الشريفة - Reino de Marruecos")
+window.title("Kingdom of Morocco - Royaume du Maroc - المملكة المغربية الشريفة - Reino de Marruecos")
 
 # Call the function to draw the flag with a size of 250 and a green color
 # Appeler la fonction pour dessiner le drapeau avec une taille de 250 et une couleur verte

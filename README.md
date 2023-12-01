@@ -9,7 +9,7 @@ Welcome to the "Fun with the Turtle Library in Schools" repository! This reposit
 
 ## Presentations
 - [PDF English version : Exploring the Programming World with Python and Turtle](explore_python_turtle_world_eng.pdf)
-- [PDF FRench version : Explorer le Monde de la Programmation avec Python et Turtle](explore_python_turtle_world_fr.pdf)
+- [PDF French version : Explorer le Monde de la Programmation avec Python et Turtle](explore_python_turtle_world_fr.pdf)
 - [Medium : Exploring the Programming World with Python and Turtle (English version)](https://larbi-ouiyzme.medium.com/exploring-the-programming-world-with-python-and-turtle-9cc7da096528)
 - [Medium : EExplorer le Monde de la Programmation avec Python et Turtle (French version)](https://larbi-ouiyzme.medium.com/explorer-le-monde-de-la-programmation-avec-python-et-turtle-french-version-bcefd89b76f3)
 - 
